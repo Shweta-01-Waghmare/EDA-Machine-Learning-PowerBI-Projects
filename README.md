@@ -3,6 +3,7 @@ Performed the EDA and Machine Learning Alogorithms for better understanding on s
 The dataset includes the shopping information from different locations shopping centers along with the related aspects.
 
 Thed dataset Contain 19 column.
+
 Customer_ID
 Age
 Gender
